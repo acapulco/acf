@@ -1,3 +1,3 @@
 Apex Connector Framework Examples
 ====
-Apex Connector FrameworkでDynamoDBとCloudSearchのデータを検索するサンプルプログラムです。
+Apex Connector FrameworkでDynamoDBとCloudSearchのデータを検索するサンプルです。
